@@ -2,6 +2,12 @@
 
 > 🌐 [繁體中文](README.zh-TW.md)
 
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/guide_version-0.0.1-blue.svg" alt="Guide Version"></a>
+<a href="#"><img src="https://img.shields.io/badge/platform-Windows%2011%2026220.6690%2B-blueviolet.svg" alt="Platform"></a>
+<a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status"></a>
+</p>
+
 This guide provides a complete workflow, starting from joining the Windows Insider Program, upgrading your system to the required Developer Preview Build (Build 26220.6690+), and finally, successfully enabling the hidden Xbox fullscreen gaming experience.
 
 ### ⚠️ WARNING: READ BEFORE YOU PROCEED
@@ -11,7 +17,7 @@ By following any steps in this guide, you acknowledge that you have read, unders
 * **High-Risk Operations**: Both upgrading to a Developer Preview Build and using third-party tools to modify your system are high-risk operations. These actions could lead to system crashes, application conflicts, data loss, or the need to reinstall your operating system.
 * **At Your Own Risk**: You agree to assume **full responsibility for all potential consequences**, positive or negative. The developer and the author of this guide are not liable for any form of damage and offer no support.
 * **Backup is Your Responsibility**: Before you begin, it is your responsibility to **create a full backup of all important data** and **create a system restore point**.
-* **Unofficial Process**: The "Xbox Fullscreen Experience Tool" mentioned in this guide is is not affiliated with Microsoft or Xbox.
+* **Unofficial Process**: The "Xbox Fullscreen Experience Tool" mentioned in this guide is not affiliated with Microsoft or Xbox.
 
 ---
 

@@ -2,6 +2,12 @@
 
 > 🌐 [English](README.md)
 
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/guide_version-0.0.1-blue.svg" alt="Guide Version"></a>
+<a href="#"><img src="https://img.shields.io/badge/platform-Windows%2011%2026220.6690%2B-blueviolet.svg" alt="Platform"></a>
+<a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status"></a>
+</p>
+
 本指南將提供一份完整的操作流程，引導您從加入 Windows 測試人員計畫開始，將您的系統升級至指定的開發人員預覽版 (Build 26220.6690+)，並最終成功啟用隱藏的 Xbox 全螢幕遊戲體驗。
 
 ### ⚠️ 重大警告：請在繼續前閱讀
