@@ -1,23 +1,23 @@
 # 從零開始：升級 Win11 開發版並啟用 Xbox 全螢幕遊戲體驗的完整指南
 
-> 🌐 [English](README.md)
+> 🌐 [English](README.md) | **繁體中文** | [简体中文](README.zh-CN.md)
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/guide_version-0.0.1-blue.svg" alt="Guide Version"></a>
-<a href="#"><img src="https://img.shields.io/badge/platform-Windows%2011%2026220.6690%2B-blueviolet.svg" alt="Platform"></a>
-<a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="Status"></a>
+<a href="#"><img src="https://img.shields.io/badge/guide_version-0.0.2-blue.svg" alt="指南版本"></a>
+<a href="#"><img src="https://img.shields.io/badge/platform-Windows%2011%2026220.6690%2B-blueviolet.svg" alt="平台"></a>
+<a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="狀態"></a>
 </p>
 
 本指南將提供一份完整的操作流程，引導您從加入 Windows 測試人員計畫開始，將您的系統升級至指定的開發人員預覽版 (Build 26220.6690+)，並最終成功啟用隱藏的 Xbox 全螢幕遊戲體驗。
 
-### ⚠️ 重大警告：請在繼續前閱讀
+### ⚠️ **重大警告：請在繼續前閱讀**
 
 執行本指南中的任何步驟，都代表您已閱讀、理解並同意以下所有條款：
 
 * **高風險操作**：無論是升級至開發人員預覽版，還是使用第三方工具修改系統，都屬於高風險操作。可能導致系統崩潰、應用程式衝突、資料遺失或需要重灌作業系統。
 * **後果自負**：您同意**完全自行承擔**所有可能發生的正面或負面後果。開發者與本指南作者不對任何形式的損壞提供支援或承擔責任。
 * **備份是您的責任**：在開始之前，您有責任**完整備份所有重要資料**並**建立系統還原點**。
-* **非官方流程**：本指南涉及的「Xbox 全螢幕體驗工具」，與 Microsoft 或 Xbox 無關。
+* **非官方流程**：本指南和涉及的「Xbox 全螢幕體驗工具」，與 Microsoft 或 Xbox 無關。
 
 ---
 
@@ -31,7 +31,7 @@
 
 #### 2. 加入 Windows 測試人員計畫
 
-* 使用您的 Microsoft 帳戶前往 Windows 測試人員計畫的官方網站進行註冊，並接受相關協議。
+* 使用您的 Microsoft 帳戶前往 [Windows 測試人員計畫官方網站](https://insider.windows.com/) 進行註冊，並接受相關協議。
 * 完成後，在您的 Windows 11 電腦上開啟「設定」，導覽至「Windows Update」>「Windows 測試人員計畫」。
 * 點選「立即註冊」並連結您剛剛註冊的 Microsoft 帳戶。
 
