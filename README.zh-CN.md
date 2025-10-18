@@ -3,7 +3,7 @@
 > 🌐 [English](README.md) | [繁體中文](README.zh-TW.md) | **简体中文**
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/guide_version-0.0.2-blue.svg" alt="指南版本"></a>
+<a href="#"><img src="https://img.shields.io/badge/guide_version-0.0.3-blue.svg" alt="指南版本"></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-Windows%2011%2026220.6690%2B-blueviolet.svg" alt="平台"></a>
 <a href="#"><img src="https://img.shields.io/badge/status-active-brightgreen.svg" alt="状态"></a>
 </p>
@@ -46,26 +46,27 @@
 
 安装完成后，您可以前往“设置”>“系统”>“系统信息”来确认您的“操作系统版本”是否为 `26220.6690` 或更新的版本。
 
----
+### 第二步：使用启用工具准备系统环境
 
-### 第二步：启用隐藏的 Xbox 全屏体验
+1.  **下载工具**：前往 [**Xbox 全屏体验工具发布页面**](https://github.com/8bit2qubit/XboxFullscreenExperienceTool/releases/latest) 下载最新的 `.msi` 安装包。
+2.  **安装工具**：运行您刚刚下载的安装程序。此过程需要管理员权限，请依照提示完成安装。
+3.  **运行工具**：从桌面快捷方式启动“Xbox 全屏体验工具”，点击“启用 Xbox 全屏体验”按钮，并根据提示**重启**您的电脑。
 
-当您的系统已符合版本要求后，便可以开始启用此功能。
+### 第三步：更新 Microsoft Store 中的核心应用
 
-#### 1. 下载工具
+1.  电脑重启后，打开 **Microsoft Store**。
+2.  前往 **“下载”** 区 (旧版应用商店则为 **“库”**)。
+3.  点击 **“检查更新”** 来刷新所有应用程序。请确保 **Xbox** 与 **Xbox Game Bar** 都已更新至最新版本。
+    > 🔄 **提示：** 您可能需要点击“检查更新”**两次**，才能确保所有项目都安装完整。
 
-前往 [**Xbox 全屏体验工具发布页面**](https://github.com/8bit2qubit/XboxFullscreenExperienceTool/releases/latest) 下载最新的 `.msi` 安装包。
+### 第四步：在系统设置中启用全屏体验
 
-#### 2. 安装工具
+1.  进入 **开始 → 设置 → 游戏 → 全屏体验**。
+2.  在“选择主应用”中设置为 **Xbox**。
+    - 若没有出现此选项，请返回上一步骤，确保应用都已更新至最新。
+3.  启用 **启动时进入全屏体验**。
 
-运行您刚刚下载的安装程序。此过程需要管理员权限，请依照提示完成安装。
+### 如何还原
 
-#### 3. 运行启用程序
-
-* 从您的桌面快捷方式启动“Xbox 全屏体验工具 (Xbox Fullscreen Experience Tool)”。
-* 在工具的主界面上，点击“启用 Xbox 全屏体验”按钮。
-* 根据工具的提示，**重启**您的电脑以应用所有更改。
-
-#### 4. 还原操作
-
-如果您希望恢复至原始状态，只需再次运行该工具，点击“禁用并还原”按钮，并**重启**电脑即可。
+1.  再次运行“Xbox 全屏体验工具”，并点击“禁用并还原”按钮。
+2.  **重启**电脑即可完成还原。
